@@ -76,7 +76,7 @@ int main()
 	cin.getline(type1,10);
 	for (int i = 0; i < 7; ++i) {
 		file1.read((char*)& flot[i], sizeof(Aeroflot));
-		if (strcmp(type1, flot[i].type)) 
+		if (strcmp(type1, flot[i].type)==0) 
 		{
 			cout << endl;
 			cout << i + 1 << ':' << endl;
