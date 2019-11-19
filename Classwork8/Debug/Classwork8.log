@@ -1,0 +1,4 @@
+﻿  Classwork8.cpp
+A:\GitHub\Classwork8\Classwork8\Classwork8.cpp(186,16): warning C4154:  удаление массива; выполнено преобразование к указателю
+A:\GitHub\Classwork8\Classwork8\Classwork8.cpp(187,15): warning C4154:  удаление массива; выполнено преобразование к указателю
+  Classwork8.vcxproj -> A:\GitHub\Classwork8\Classwork8\Debug\Classwork8.exe
