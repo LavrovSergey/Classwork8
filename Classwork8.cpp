@@ -97,7 +97,6 @@ int main()
 	}
 	if (count == 0) { cout << endl << " Нет таких рейсов\n"; }
 	file1.close();
-	delete[] type1;
-	delete[] flot;
+
 	return 0;
 }
